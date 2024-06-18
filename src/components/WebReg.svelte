@@ -12,7 +12,7 @@
         <div class="mt-5">
             <p class="text-sm font-light">THIRD PLACE OVERALL</p>
             <a href='https://github.com/johnlorenzini/zotology' class="flex space-x-2 justify-center items-center">
-                <h1 class="text-2xl font-semibold">WebReg, reimagined by Zotology</h1>
+                <h1 class="lg:text-2xl text-lg font-semibold">WebReg, reimagined by Zotology</h1>
                 <OpenOutline color='#EBFFF8'/>
             </a>
             <p class="mb-5">A detail oriented student-enrollment experience.</p>
