@@ -6,13 +6,12 @@
   <div class="app">
 	<Header />
 
-	<main>
+	<main class="justify-center">
 		<slot />
 	</main>
 
 	<footer class="text-sm">
-		<p>Made with love, and code ❤️</p>
-		<p>John Daniel Norombaba, 2024</p>
+		<p>(c) John Daniel Norombaba, 2024</p>
 	</footer>
 </div>
 
@@ -39,8 +38,8 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 12px;
-		margin: 1.5rem;
+		padding: 10px;
+		margin: 1rem;
 		color: #EBFFF8
 	}
 
