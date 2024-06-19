@@ -1,8 +1,8 @@
 <script>
     import Headline from '../components/about/Headline.svelte';
     import Objective from '../components/about/Objective.svelte';
-    import WebReg from '../components/WebReg.svelte';
-    import DailySmirk from '../components/DailySmirk.svelte';
+    import WebReg from '../components/projects/WebReg.svelte';
+    import DailySmirk from '../components/projects/DailySmirk.svelte';
     
 </script>
 

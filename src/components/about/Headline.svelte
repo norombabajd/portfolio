@@ -1,7 +1,5 @@
 <script>
-    import johndaniel from '$lib/assets/branding/johndaniel-standing.png';
-    // import { EvervaultCard, Icon } from '../../components/ui/EvervaultCard/';
-
+    import johndaniel from '$lib/assets/branding/johndaniel-standing.webp';
 </script>
 
 
@@ -13,7 +11,6 @@
                 Hello, I'm John Daniel.
             </h1>
             <p class="ml-10 mr-10">Software Engineering at UC Irvine</p>
-
         </div>
     </div> 
 </div>

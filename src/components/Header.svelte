@@ -1,6 +1,5 @@
 <script>
-//   import profilephoto from '$lib/assets/branding/johndaniel.jpg';
-  import { LogoGithub, LogoInstagram, LogoLinkedin } from 'svelte-ionicons';
+  import { LogoGithub, LogoInstagram, LogoLinkedin, ReaderOutline } from 'svelte-ionicons';
   import { blur } from 'svelte/transition'  
   import { onMount } from 'svelte';
 
@@ -18,6 +17,7 @@
         </div>
 
         <div class="flex space-x-5 mr-2">
+            <a href="https://blog.norombabajd.com"><ReaderOutline color="#131216"/></a>
             <a href="https://instagram.com/norombabajd"><LogoInstagram color="#131216"/></a>
             <a href="https://linkedin.in/norombabajd"><LogoLinkedin color="#131216"/></a>
             <a href="https://github.com/norombabajd"><LogoGithub color="#131216"/></a>

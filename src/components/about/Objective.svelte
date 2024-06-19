@@ -1,6 +1,6 @@
 <script>
     import { OpenOutline } from 'svelte-ionicons';
-    import johndaniel from '$lib/assets/branding/johndaniel-standing.png';
+    import johndaniel from '$lib/assets/branding/johndaniel-standing.webp';
     import { TextGenerateEffect } from '../../components/ui/TextGenerateEffect';
     const words = 'At a young age, I was passionate about helping my community and grew a deep affection for technology. Now, I leverage my technical skills to create ideas and solutions that are people-driven. And use my social skills to empower others and to share my own experiences as a UC Irvine student.';
 </script>
