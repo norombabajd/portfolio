@@ -5,7 +5,6 @@
     import DailySmirk from '../components/projects/DailySmirk.svelte';
     import Portfolio from '../components/projects/Portfolio.svelte';
     import Threads from '../components/explore/Threads.svelte';
-    import Blog from '../components/explore/Blog.svelte';
     import Spotify from '../components/explore/Spotify.svelte';
 </script>
 
@@ -25,8 +24,8 @@
         </div>
     </div>
     <!-- Explore -->
+    <hr class="lg:hidden w-48 h-1 mx-auto mt-5 mb-2 bg-gray-100 border-0 rounded dark:bg-gray-700">
     <div>
-        <hr class="lg:hidden w-48 h-1 mx-auto mt-5 mb-2 bg-gray-100 border-0 rounded dark:bg-gray-700">
         <div class="grid lg:grid-cols-3">
             <Threads/>
             <Spotify/>
