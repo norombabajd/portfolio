@@ -7,10 +7,10 @@
     <div class="flex flex-col text-[#EBFFF8] items-center text-center">
         <img draggable="false" class="max-h-96" alt="" src={johndaniel} />
         <div>
-            <h1 class="sm:text-2xl font-medium ml-5 mr-5 -mt-24">
+            <h1 class="text-2xl tracking-tight font-medium ml-5 mr-5 -mt-24">
                 Hello, I'm John Daniel.
             </h1>
-            <p class="ml-10 mr-10">Software Engineering at UC Irvine</p>
+            <p class="ml-10 mr-10">Rising fourth-year, Software Engineering at UC Irvine</p>
         </div>
     </div> 
 </div>
